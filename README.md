@@ -3,7 +3,7 @@
 
 #### Summary / Context
 
-<img src="" height=300px>   </a>
+<img src="https://github.com/Igor-Rast/PnP-Magnetic-Tool-Tip/blob/master/nozzle.png" height=300px>   </a>
 
 
 These are the design files for a Pick & Place Magnetic Nozzle intended to be used with the <a href="https://github.com/firepick1/FPD-LooseCanon/blob/dev/mechanical/3DLCxxxx%20-%20LooseCanon%20parts/STL/3DLC1005%20Nema8%20Tool%20Mount%20%28plated%29.stl"> 3DLC1005 Nema8 Tool Mount </a>(Thanks Karl) on the <a href="https://github.com/firepick-delta/firepick-delta"> FirePick Delta</a>. 
