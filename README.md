@@ -1,7 +1,5 @@
-# PnP-Magnetic-Tool-Tip
-Pick &amp; Place Magnetic Tool Tip for the FirePick Delta 
-
-### FirePick Delta -- FPD-003 The Loose Canon Build
+﻿# PnP-Magnetic-Tool-Tip
+###Pick &amp; Place Magnetic Tool Tip for the FirePick Delta 
 
 #### Summary / Context
 
