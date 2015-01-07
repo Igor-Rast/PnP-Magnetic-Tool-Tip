@@ -3,15 +3,25 @@
 
 #### Summary / Context
 
+<img src="" height=300px>   </a>
+
+
 These are the design files for a Pick & Place Magnetic Nozzle intended to be used with the <a href="https://github.com/firepick1/FPD-LooseCanon/blob/dev/mechanical/3DLCxxxx%20-%20LooseCanon%20parts/STL/3DLC1005%20Nema8%20Tool%20Mount%20%28plated%29.stl"> 3DLC1005 Nema8 Tool Mount </a>(Thanks Karl) on the <a href="https://github.com/firepick-delta/firepick-delta"> FirePick Delta</a>. 
 The Magnetic holder idea came after watching  <a href="https://www.youtube.com/watch?v=bYfD0UUKyek"> this video</a>.
 A magnet on the extender so that the nozzles can be automaticly changed. Also it has to be made from metal (machined) so it has an airtight seal and doesnt wear to quick.
+
 
 Couple of questions still needing an anwser
 
 - What would be the best material to make the nozzle ? it has to be magnetic so it sticks, but also easily machinable
 - Think aluminum would be best for the extender, that way the magnetic force only goes to the tip( aluminum not magnetic) 
 - What is the ideal lengt for the tip ? Now its 4+20+5+24.38=53.38mm . is this too long/short. see <a href="https://github.com/Igor-Rast/PnP-Magnetic-Tool-Tip/blob/master/PDF/Pick_%26_Place_Nozzle_Assembly%28PDF%29.pdf">Pick & Place Nozzle Assenbly</a>
+
+
+
+#### Software
+Sadly no opensource software was used. Parts were made with Autocad Inventor 2014
+
 
 
 
