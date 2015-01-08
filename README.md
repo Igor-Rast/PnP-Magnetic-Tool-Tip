@@ -1,14 +1,19 @@
 ﻿# PnP-Magnetic-Tool-Tip
 ###Pick &amp; Place Magnetic Tool Tip for the FirePick Delta 
 
+#### CAUTION : Design not working yet, verify design yourself before using
+
+
+#### Work In Progress
+
 #### Summary / Context
 
-<img src="https://github.com/Igor-Rast/PnP-Magnetic-Tool-Tip/blob/master/nozzle.png" height=300px>   </a>
-
+<img src="https://github.com/Igor-Rast/PnP-Magnetic-Tool-Tip/blob/master/nozzle1.jpeg" height=300px>   
+<img src="https://github.com/Igor-Rast/PnP-Magnetic-Tool-Tip/blob/master/nozzle2.jpeg" height=300px>   </a>
 
 These are the design files for a Pick & Place Magnetic Nozzle intended to be used with the <a href="https://github.com/firepick1/FPD-LooseCanon/blob/dev/mechanical/3DLCxxxx%20-%20LooseCanon%20parts/STL/3DLC1005%20Nema8%20Tool%20Mount%20%28plated%29.stl"> 3DLC1005 Nema8 Tool Mount </a>(Thanks Karl) on the <a href="https://github.com/firepick-delta/firepick-delta"> FirePick Delta</a>. 
 The Magnetic holder idea came after watching  <a href="https://www.youtube.com/watch?v=bYfD0UUKyek"> this video</a>.
-A magnet on the extender so that the nozzles can be automaticly changed. Also it has to be made from metal (machined) so it has an airtight seal and doesnt wear to quick.
+A magnet on the extender so that the nozzles can be automaticly changed. Also it has to be made from metal (machined) so it has an air tight seal and doesnt wear to quick.
 
 
 Couple of questions still needing an anwser
@@ -20,7 +25,7 @@ Couple of questions still needing an anwser
 
 
 #### Software
-Sadly no opensource software was used. Parts were made with Autocad Inventor 2014
+Sadly no opensource software was used. Parts were made with Autocad Inventor 2015
 
 
 
@@ -29,7 +34,7 @@ Sadly no opensource software was used. Parts were made with Autocad Inventor 201
 
 ![CC-BY-SA](http://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/CC-BY-SA_icon.svg/320px-CC-BY-SA_icon.svg.png)
 
-These files are licensed under [*Creative Commons Attribution-ShareAlike (CC BY-SA)*](https://creativecommons.org/licenses/by-sa/4.0/legalcode).  Commercial use is OK, but you are required under the license conditions to share your changes with the internet, and also credit the FirePick Delta team.
+These files are licensed under [*Creative Commons Attribution-ShareAlike (CC BY-SA)*](https://creativecommons.org/licenses/by-sa/4.0/legalcode).  Commercial use is OK, but you are required under the license conditions to share your changes with the internet, and also credit the FirePick Delta team & I.C.E.C
 
 
 This license lets others remix, tweak, and build upon your work even for commercial purposes, as long as they credit you and license their new creations under the identical terms. This license is often compared to “copyleft” free and open source software licenses. All new works based on yours will carry the same license, so any derivatives will also allow commercial use. This is the license used by Wikipedia, and is recommended for materials that would benefit from incorporating content from Wikipedia and similarly licensed projects. 
