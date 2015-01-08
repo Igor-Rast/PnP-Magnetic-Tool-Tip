@@ -43,6 +43,6 @@ This license lets others remix, tweak, and build upon your work even for commerc
 
 
 #### Maintainer
-* [(I.C.E.C)]
+* I.C.E.C a.k.a Igor-Rast
 
 
