@@ -8,9 +8,9 @@
 
 #### Summary / Context
 
-<img src="https://github.com/Igor-Rast/PnP-Magnetic-Tool-Tip/blob/master/image/Nozzle_#1_Rev_A.png" height=300px>   </a>
-<img src="https://github.com/Igor-Rast/PnP-Magnetic-Tool-Tip/blob/master/image/Nozzle_#1_Rev_A_1.png" height=300px>   </a>
-<img src="https://github.com/Igor-Rast/PnP-Magnetic-Tool-Tip/blob/master/image/Nozzle_#2_Rev_A_1.png" height=300px>   </a>
+<img src="https://github.com/Igor-Rast/PnP-Magnetic-Tool-Tip/blob/master/image/Nozzle_1_Rev_A.png" height=300px>   </a>
+<img src="https://github.com/Igor-Rast/PnP-Magnetic-Tool-Tip/blob/master/image/Nozzle_1_Rev_A_1.png" height=300px>   </a>
+<img src="https://github.com/Igor-Rast/PnP-Magnetic-Tool-Tip/blob/master/image/Nozzle_2_Rev_A_1.png" height=300px>   </a>
 <img src="https://github.com/Igor-Rast/PnP-Magnetic-Tool-Tip/blob/master/image/Extender_Assembled_Rev_A_1.png" height=300px>   </a>
 
 
