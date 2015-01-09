@@ -12,7 +12,7 @@
 <img src="https://github.com/Igor-Rast/PnP-Magnetic-Tool-Tip/blob/master/image/Nozzle_1_Rev_A_1.png" height=300px>   </a>
 <img src="https://github.com/Igor-Rast/PnP-Magnetic-Tool-Tip/blob/master/image/Nozzle_2_Rev_A_1.png" height=300px>   </a>
 <img src="https://github.com/Igor-Rast/PnP-Magnetic-Tool-Tip/blob/master/image/Extender_Assembled_Rev_A_1.png" height=300px>   </a>
-<img src="https://github.com/Igor-Rast/PnP-Magnetic-Tool-Tip/blob/master/image/Extender.png" height=300px>   </a>
+<img src="https://github.com/Igor-Rast/PnP-Magnetic-Tool-Tip/blob/master/image/extender.png" height=300px>   </a>
 
 #### Summary / Context
 
