@@ -1,5 +1,5 @@
 ﻿# PnP-Magnetic-Tool-Tip
-###Pick &amp; Place Magnetic Tool Tip for the FirePick Delta 
+###Pick &amp; Place Magnetic Tool Tip for NEMA8 hollow shaft stepper
 
 #### CAUTION : Design not working yet, verify design yourself before using
 
