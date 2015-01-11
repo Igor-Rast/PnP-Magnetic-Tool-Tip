@@ -24,20 +24,17 @@ A magnet on the extender so that the nozzles can be automaticly changed. Also it
 #### Parts needed
 
 - 1x NEMA 8 Hollow Shaft stepper (robotdigg.com)
-- 1x Extender piece (probably aluminum) 
-- 1x Magnet
-- 1x Seal
-- 2x Seal
-- 4x M2 bolt 
 
+- 1x Top Extender piece  
+- 1x Bottom Extender piece 
+- 1x Magnet 10mm x 1mm : hole 5mm
+- 1x Facial Seal 3.18 (o.d) 0.5 (c/s)
+- 2x Axial Seal 4.29 (o.d) 0.5 (c/s)
+- 4x M2x5 slotted head bolt 
+- 4x M2x5 slotted head bolt
+
+- 1x M8 spacing ring
 - Nozzle(s)
-
-
-Couple of questions still needing an anwser
-
-- What would be the best material to make the nozzle ? it has to be magnetic so it sticks, but also easily machinable
-- Think aluminum would be best for the extender, that way the magnetic force only goes to the tip( aluminum not magnetic) 
-- ~~ What is the ideal lengt for the tip ? Now its 4+20+5+24.38=53.38mm ~~ --> Should be between 30-40mm --> Rev_A = 30mm total. is this too long/short. see <a href="https://github.com/Igor-Rast/PnP-Magnetic-Tool-Tip/blob/master/PDF/Pick_%26_Place_Nozzle_Assembly%28PDF%29.pdf">Pick & Place Nozzle Assenbly</a>
 
 
 
