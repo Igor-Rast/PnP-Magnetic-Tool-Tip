@@ -23,12 +23,12 @@ A magnet on the extender so that the nozzles can be automaticly changed. Also it
 - 1x NEMA 8 Hollow Shaft stepper (robotdigg.com)
 
 - 1x Top Extender piece
-- 1x Bottom Extender piece 
+- 1x Bottom Extender Piece 
 - 1x Magnet 10mm x 1mm : hole 5mm
-- 1x Facial Seal 3.18 (o.d) 0.5 (c/s)
+- 1x Axial Seal 5.00 (o.d) 0.5 (c/s)
 - 2x Axial Seal 4.29 (o.d) 0.5 (c/s)
-- 4x M2x5 slotted head bolt
-- 4x M2x5 slotted head bolt
+- 4x M1.6x5 headless
+- 4x M2x5 panhead 
 
 - 1x M8 spacing ring
 - Nozzle(s)
