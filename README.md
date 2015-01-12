@@ -8,7 +8,7 @@
 
 
 
-<img src="https://github.com/Igor-Rast/PnP-Magnetic-Tool-Tip/blob/master/image/Extender_Assembly_Rev_C.png" height=300px>   </a>
+<img src="https://github.com/Igor-Rast/PnP-Magnetic-Tool-Tip/blob/master/image/Extender_Assembly_Rev_C_1.png" height=300px>   </a>
 
 
 #### Summary / Context
